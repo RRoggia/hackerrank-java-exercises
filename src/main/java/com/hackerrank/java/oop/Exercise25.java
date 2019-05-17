@@ -16,6 +16,7 @@ public class Exercise25 {
 		}
 	}
 
+	@SuppressWarnings("rawtypes")
 	static void ImplementedInterfaceNames(Object o) {
 		Class[] theInterfaces = o.getClass().getInterfaces();
 		for (int i = 0; i < theInterfaces.length; i++) {
