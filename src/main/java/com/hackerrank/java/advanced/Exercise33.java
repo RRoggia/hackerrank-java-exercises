@@ -3,7 +3,7 @@ package com.hackerrank.java.advanced;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-import com.hackerrank.java.introduction.IOUtils;
+import com.hackerrank.java.IOUtils;
 
 public class Exercise33 {
 

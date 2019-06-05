@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-import com.hackerrank.java.introduction.IOUtils;
+import com.hackerrank.java.IOUtils;
 
 public class Exercise35 {
 

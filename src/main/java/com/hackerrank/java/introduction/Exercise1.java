@@ -2,6 +2,8 @@ package com.hackerrank.java.introduction;
 
 import java.util.Scanner;
 
+import com.hackerrank.java.IOUtils;
+
 public class Exercise1 {
 
 	public static void main(String[] args) {

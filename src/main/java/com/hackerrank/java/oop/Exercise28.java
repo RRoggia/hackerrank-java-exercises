@@ -3,7 +3,7 @@ package com.hackerrank.java.oop;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.hackerrank.java.introduction.IOUtils;
+import com.hackerrank.java.IOUtils;
 
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class Exercise28 {

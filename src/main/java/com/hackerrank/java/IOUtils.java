@@ -1,6 +1,8 @@
-package com.hackerrank.java.introduction;
+package com.hackerrank.java;
 
 import java.io.InputStream;
+
+import com.hackerrank.java.introduction.Exercise1;
 
 public class IOUtils {
 	public static void initializeInputStreamForFile(String filename) {

@@ -2,7 +2,7 @@ package com.hackerrank.java.strings;
 
 import java.util.Scanner;
 
-import com.hackerrank.java.introduction.IOUtils;
+import com.hackerrank.java.IOUtils;
 
 public class Exercise16 {
 

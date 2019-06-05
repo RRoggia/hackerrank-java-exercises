@@ -4,6 +4,8 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
+import com.hackerrank.java.IOUtils;
+
 public class Exercise12 {
 	public static void main(String[] args) {
 		IOUtils.initializeInputStreamForFile("exercise12.txt");

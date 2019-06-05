@@ -2,7 +2,7 @@ package com.hackerrank.java.exception;
 
 import java.util.Scanner;
 
-import com.hackerrank.java.introduction.IOUtils;
+import com.hackerrank.java.IOUtils;
 
 public class Exercise31 {
 	public static final MyCalculator my_calculator = new MyCalculator();
