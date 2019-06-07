@@ -3,7 +3,7 @@ package com.hackerrank.java.exception;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import com.hackerrank.java.IOUtils;
+import com.hackerrank.IOUtils;
 
 public class Exercise30 {
 

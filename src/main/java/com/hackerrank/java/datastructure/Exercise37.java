@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-import com.hackerrank.java.IOUtils;
+import com.hackerrank.IOUtils;
 
 public class Exercise37 {
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@ package com.hackerrank.java.datastructure;
 
 import java.util.Scanner;
 
-import com.hackerrank.java.IOUtils;
+import com.hackerrank.IOUtils;
 
 public class Exercise40 {
 	public static void main(String[] args) {

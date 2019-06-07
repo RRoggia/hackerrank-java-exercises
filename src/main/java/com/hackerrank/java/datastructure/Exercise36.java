@@ -3,7 +3,7 @@ package com.hackerrank.java.datastructure;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.hackerrank.java.IOUtils;
+import com.hackerrank.IOUtils;
 
 public class Exercise36 {
 
